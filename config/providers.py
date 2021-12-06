@@ -32,7 +32,7 @@ learn more more about Service Providers in our documentation
 PROVIDERS = [
     # Framework Providers
     AppProvider,
-    CorsProvider
+    CorsProvider,
     RequestHelpersProvider,
     CsrfProvider,
     AuthenticationProvider,
